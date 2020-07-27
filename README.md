@@ -1,12 +1,12 @@
 # Numbers-To-Words
 
-# 1 
+# 1 ->
   User give number as Input
   
-# 2
+# 2 ->
   That number must be an Without decimal point and Non-Negative number, And the range is (0 - 9999999,99,99,999) less than 14 digit...
   
-# 3
+# 3 ->
   We convert that number into word's
   
 
